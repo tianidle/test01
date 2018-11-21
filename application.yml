@@ -1,7 +1,8 @@
 
 
-
-
+config --global user.name "ouyangyewei"
+git config --global user.name "yushanliang"
+git config --global user.email "yushanliang3@126.com"
 
 
 
